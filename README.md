@@ -5,9 +5,9 @@ Requirements documents and case studies by Suvetha S P.
 ## Documents
 | Work | What it is | File |
 |------|------------|------|
-| RECRUIT-IQ | Business Requirements Document for an AI recruitment and interview platform | [RECRUIT-IQ/RECRUIT-IQ-BRD.pdf](RECRUIT-IQ/RECRUIT-IQ-BRD.pdf) |
-| EHR case study | [one line on what it covers] | [Case-Study-EHR/EHR-Case-Study.pdf](Case-Study-EHR/EHR-Case-Study.pdf) |
-| Reducing Refunds with AI | [one line on what it covers] | [Case-Study-Reducing-Refunds-with-AI/Reducing-Refunds-with-AI-Case-Study.pdf](Case-Study-Reducing-Refunds-with-AI/Reducing-Refunds-with-AI-Case-Study.pdf) |
+| RECRUIT-IQ | Business Requirements Document for an AI recruitment and interview platform | [RECRUIT-IQ BRD](RECRUIT-IQ-BRD-FILE-NAME-HERE) |
+| EHR case study | Requirements-focused case study on an electronic health records system | [EHR case study](EHR-FILE-NAME-HERE) |
+| Reducing Refunds with AI | Business analysis case study on why refunds happen and how AI can reduce them | [Reducing Refund via AI case study](https://github.com/Suvetha29/Business-Analysis-Portfolio/blob/main/Reducing%20Refund%20via%20AI%20case%20study.docx) |
 
 ## Tools
 Requirement analysis, BRD, user stories, BPMN, Confluence, Jira
